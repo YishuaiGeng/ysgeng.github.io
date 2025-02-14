@@ -3,20 +3,25 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Preprints"
+    url: "/#-preprints"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Patents"
+    url: "/#-patents"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Conferences"
+    url: "/#-conferences"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Honors"
+    url: "/#-honors"
+    
+  - title: "Awards"
+    url: "/#-awards"
+    
+  - title: "Competitions"
+    url: "/#-competitions"
+
+

@@ -27,7 +27,6 @@ My research focuses on **Knowledge Representation & Reasoning**, with a spotligh
 
 - Non-monotonic Reasoning
 - Answer Set Programming (ASP)
-- Information Extraction
 - Large Language Model 
 - Recommendation System
 

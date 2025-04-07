@@ -21,7 +21,7 @@ redirect_from:
 
 # 👀 About Me
 
-My name is Yishuai Geng (耿宜帅), born on December 19, 1999. I am currently a Ph.D. student in the College of Computer Science and Technology at Southeast University, under the supervision of Professor [Guohui Xiao](https://www.ghxiao.org/) （肖国辉）.
+My name is Yishuai Geng (耿宜帅). I am currently a Ph.D. student in the College of Computer Science and Technology at Southeast University, under the supervision of Professor [Guohui Xiao](https://www.ghxiao.org/) （肖国辉）.
 
 My research focuses on **Knowledge Representation & Reasoning**, with a spotlight on the following key areas: 
 

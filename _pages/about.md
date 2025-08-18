@@ -25,8 +25,7 @@ My name is Yishuai Geng (耿宜帅), born on December 19, 1999. I am currently a
 
 My research focuses on **Knowledge Representation & Reasoning**, with a spotlight on the following key areas: 
 
-- Non-monotonic Reasoning
-- Answer Set Programming (ASP)
+- Answer Set Programming
 - Information Extraction
 - Large Language Model 
 - Recommendation System

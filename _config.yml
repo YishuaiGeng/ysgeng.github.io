@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yishuai Geng(耿宜帅)"
 description              : "Keep Learning!!!"
-repository               : "GengLabs-AI/genglabs-ai.github.io"
+repository               : "yishuaigeng/ysgeng.github.io"
 google_scholar_stats_use_cdn : true
 
 # 添加 tzinfo-data 配置
@@ -40,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GengLabs-AI"
+  github           : "yishuaigeng"
   google_plus      :
   keybase          :
   instagram        :

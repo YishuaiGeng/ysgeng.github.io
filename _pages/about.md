@@ -21,19 +21,20 @@ redirect_from:
 
 # 👀 About Me
 
-My name is Yishuai Geng (耿宜帅). I am currently a Ph.D. student in the College of Computer Science and Technology at Southeast University, under the supervision of Professor [Guohui Xiao](https://www.ghxiao.org/) （肖国辉）.
+My name is Yishuai Geng (耿宜帅), born on December 19, 1999. I am currently a Ph.D. student in the College of Computer Science and Technology at Southeast University, under the supervision of Professor [Guohui Xiao](https://www.ghxiao.org/) （肖国辉）.
 
 My research focuses on **Knowledge Representation & Reasoning**, with a spotlight on the following key areas: 
 
 - Non-monotonic Reasoning
 - Answer Set Programming (ASP)
+- Information Extraction
 - Large Language Model 
 - Recommendation System
 
 I have published 5 papers with total google scholar citations  <a href='https://scholar.google.com/citations?user=hpVroWYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
-- *2025.02*: &nbsp; 🎉 I have been admitted as a **Research PhD Student** at Southeast University!
+- *2025.03*: &nbsp; 🎉 I have been admitted as a **Research PhD Student** at Southeast University!
 
 
 # 🎓 Education

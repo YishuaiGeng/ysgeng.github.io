@@ -21,7 +21,7 @@ redirect_from:
 
 # 👀 About Me
 
-My name is Yishuai Geng (耿宜帅), born on December 19, 1999. I am currently a Ph.D. student in the College of Computer Science and Technology at Southeast University, under the supervision of Professor [Guohui Xiao](https://www.ghxiao.org/) （肖国辉）.
+My name is Yishuai Geng (耿宜帅), born on December 19, 1999. I am currently a Ph.D. student in the College of Computer Science and Technology at Southeast University, under the supervision of Professor [Guohui Xiao](https://www.ghxiao.org/) （肖国辉）. Previously, I completed my Master's degree at Yangzhou University under the supervision of Professor [Zhu Yi](https://scholar.google.com/citations?hl=zh-CN&user=jSfAPUwAAAAJ) （朱毅）.
 
 My research focuses on **Knowledge Representation & Reasoning**, with a spotlight on the following key areas: 
 
@@ -92,14 +92,15 @@ I have published 5 papers with total google scholar citations  <a href='https://
 - *2022.05*, Movie recommendation system based on triple autoencoder combined with knowledge graph feature extension; Registration No.: 2022SR0567030.
 -->
 
-<!--
-
 # 🔍 Services
 
 ## Journal Reviewing
+- **Engineering Applications of Artificial Intelligence**
+- **Intelligent Information Systems**
+- **Knowledge and Information Systems**
+- **Knowledge-Based Systems**
 
 ## Conference Activities
--->
 
 # 🎤 Conferences
 - *2024.07*, Shanghai, Academic exchange activity at East China University of Science and Technology, oral presentation, awarded "**Outstanding Student**" [[Link](./images/Conferences/优秀学员.jpg)]

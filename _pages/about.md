@@ -142,9 +142,9 @@ I have published 5 papers with total google scholar citations  <a href='https://
 # 🔍 Services
 
 ## Journal Reviewing
-- **Engineering Applications of Artificial Intelligence**
-- **Intelligent Information Systems**
-- **Knowledge and Information Systems**
-- **Knowledge-Based Systems**
+- Engineering Applications of Artificial Intelligence
+- Intelligent Information Systems
+- Knowledge and Information Systems
+- Knowledge-Based Systems
 
 ## Conference Activities

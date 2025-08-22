@@ -32,7 +32,8 @@ My research focuses on **Knowledge Representation & Reasoning**, with a spotligh
 I have published 5 papers with total google scholar citations  <a href='https://scholar.google.com/citations?user=hpVroWYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
-- *2025.03*: &nbsp; 🎉 I have been admitted as a **Research PhD Student** at Southeast University!
+- *2025.07*: &nbsp; 🎉 A paper I contributed to has been accepted at **KR2025**!
+- *2025.02*: &nbsp; 🎉 I have been admitted as a **Research PhD Student** at Southeast University!
 
 
 # 🎓 Education
@@ -47,6 +48,7 @@ I have published 5 papers with total google scholar citations  <a href='https://
 
 <!-- (__IF2024: 6.5__, <span style="color:red">CCF-A</span>) -->
  <!-- [[DOI](https://doi.org/10.1109/TSE.2024.3440503)]-->
+
 	
 1.  [[DOI](https://doi.org/10.1109/TETCI.2023.3300740)] **Self-Adaptive Deep Asymmetric Network for Imbalanced Recommendation**.  
     Zhu, Yi, <span style="color:blue">Yishuai Geng</span>, Yun Li, Jipeng Qiang, Yunhao Yuan and Xindong Wu.   
@@ -146,5 +148,3 @@ I have published 5 papers with total google scholar citations  <a href='https://
 - Intelligent Information Systems
 - Knowledge and Information Systems
 - Knowledge-Based Systems
-
-## Conference Activities

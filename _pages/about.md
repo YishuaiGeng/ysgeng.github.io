@@ -92,15 +92,6 @@ I have published 5 papers with total google scholar citations  <a href='https://
 - *2022.05*, Movie recommendation system based on triple autoencoder combined with knowledge graph feature extension; Registration No.: 2022SR0567030.
 -->
 
-# 🔍 Services
-
-## Journal Reviewing
-- **Engineering Applications of Artificial Intelligence**
-- **Intelligent Information Systems**
-- **Knowledge and Information Systems**
-- **Knowledge-Based Systems**
-
-## Conference Activities
 
 # 🎤 Conferences
 - *2024.07*, Shanghai, Academic exchange activity at East China University of Science and Technology, oral presentation, awarded "**Outstanding Student**" [[Link](./images/Conferences/优秀学员.jpg)]
@@ -147,3 +138,13 @@ I have published 5 papers with total google scholar citations  <a href='https://
 - *2019.10*, 10th Jiangsu Province College Students Robot Competition **Provincial Third Prize** [[Link](./images/Competitions/第十届江苏省大学生机器人大赛三等奖.jpg)]
 - *2019.03*, 10th Blue Bridge Cup Jiangsu Division C/C++ Programming University Group B **Provincial Third Prize** [[Link](./images/Competitions/第十届蓝桥杯江苏赛区CC++大学B组三等奖.jpg)]
 - *2018.11*, 9th Jiangsu Province College Students Robot Competition **Provincial Third Prize** [[Link](./images/Competitions/第九届江苏省大学生机器人大赛三等奖.jpg)]
+
+# 🔍 Services
+
+## Journal Reviewing
+- **Engineering Applications of Artificial Intelligence**
+- **Intelligent Information Systems**
+- **Knowledge and Information Systems**
+- **Knowledge-Based Systems**
+
+## Conference Activities

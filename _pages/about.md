@@ -68,9 +68,9 @@ I have published 5 papers with total google scholar citations  <a href='https://
     In *Applied Sciences-Basel*, Dec 1, 2022. (<span style="color:red">SCI-Q4</span>)       
 
 
-5.  [[DOI](https://doi.org/10.19411/j.1007-824x.2022.06.011)] **基于预训练语言模型特征扩展的科研论文推荐**.   
-    章小卫, <span style="color:blue">耿宜帅</span>, 李斌.  
-    In *扬州大学学报(自然科学版)*, Dec 22, 2022. (<span style="color:red">北大核心</span>)     
+5.  [[DOI](https://doi.org/10.19411/j.1007-824x.2022.06.011)] **Research Paper Recommendation Based on Pre-trained Language Model Feature Extension**.   
+    Zhang Xiaowei, <span style="color:blue">Geng Yishuai</span>, Li Bin.  
+    In *Journal of Yangzhou University (Natural Science Edition)*, Dec 22, 2022. (<span style="color:red">Peking University Core</span>)     
 
 
 # 📝 Preprints
@@ -78,18 +78,18 @@ I have published 5 papers with total google scholar citations  <a href='https://
 
 
 # 📜 Patents
-- *2023.08*, 一种基于PNN的多特征扩展自编码器推荐算法；专利号：CN202311018096.X.（第二发明人）
-- *2022.10*, 一种基于串行自编码机的推荐算法；专利号：CN202211260963.6.（第二发明人）
-- *2022.04*, 一种基于三重自编码机结合知识图谱的电影推荐方法；专利号：CN202210381395.9.（第二发明人）
-- *2021.05*, 一种全自动洗车装置；专利号：CN202021608047.3.（第三发明人）
+- *2023.08*, A multi-feature extension autoencoder recommendation algorithm based on PNN; Patent No.: CN202311018096.X. (Second Inventor)
+- *2022.10*, A recommendation algorithm based on serial autoencoder; Patent No.: CN202211260963.6. (Second Inventor)
+- *2022.04*, A movie recommendation method based on triple autoencoder combined with knowledge graph; Patent No.: CN202210381395.9. (Second Inventor)
+- *2021.05*, A fully automatic car washing device; Patent No.: CN202021608047.3. (Third Inventor)
 
 <!--
 # ©️ Copyrights
 
-- *2023.04*, 基于自动编码器多特征扩展的电影推荐系统；登记号：2023SR0499101.
-- *2023.02*, 基于Java的智慧旅游推荐系统；登记号：2023SR0869194.
-- *2022.07*, 基于串行自编码机的电影推荐系统；登记号：2022SR093448.
-- *2022.05*, 基于三重自编码机结合知识图谱特征拓展的电影推荐系统；登记号：2022SR0567030.
+- *2023.04*, Movie recommendation system based on multi-feature extension of autoencoder; Registration No.: 2023SR0499101.
+- *2023.02*, Smart tourism recommendation system based on Java; Registration No.: 2023SR0869194.
+- *2022.07*, Movie recommendation system based on serial autoencoder; Registration No.: 2022SR093448.
+- *2022.05*, Movie recommendation system based on triple autoencoder combined with knowledge graph feature extension; Registration No.: 2022SR0567030.
 -->
 
 <!--
@@ -102,47 +102,47 @@ I have published 5 papers with total google scholar citations  <a href='https://
 -->
 
 # 🎤 Conferences
-- *2024.07*, 上海, 华东理工大学学术交流活动，口头汇报，获评“**优秀学员**” [[Link](./images/Conferences/优秀学员.jpg)]
-- *2024.03*, **日本福冈, 九州工业大学（Kyushu Institute of Technology）研究生学术交流活动** [[Link](./images/Conferences/九工大交流.jpg)]
-- *2023.08*, 安徽合肥, 第八届IEEE网络空间数据科学国际会议，口头汇报 [[Link](./images/Conferences/8thIEEE_DSC.jpg)]
+- *2024.07*, Shanghai, Academic exchange activity at East China University of Science and Technology, oral presentation, awarded "**Outstanding Student**" [[Link](./images/Conferences/优秀学员.jpg)]
+- *2024.03*, **Fukuoka, Japan, Graduate academic exchange activity at Kyushu Institute of Technology** [[Link](./images/Conferences/九工大交流.jpg)]
+- *2023.08*, Hefei, Anhui, 8th IEEE International Conference on Cyber Security and Data Science, oral presentation [[Link](./images/Conferences/8thIEEE_DSC.jpg)]
 
 	
 # 🏅 Honors
-- *2024.05*, **扬州大学2024届优秀毕业生** [[Link](./images/Honors/扬州大学优秀毕业生.jpg)]
-- *2023.11*, 扬州大学 “三好学生” [[Link](./images/Honors/2022-2023扬州大学三好学生.jpg)]
-- *2023.04*, 扬州鉴真半程马拉松赛暨大运河马拉松系列赛（扬州站）优秀志愿者 [[Link](./images/Honors/扬马优秀志愿者.jpg)]
-- *2022.11*, 扬州大学 信息工程学院（人工智能学院）“三好学生” 
-- *2022.06*, 扬州大学2022年度 “文明宿舍” [[Link](./images/Honors/扬州大学优秀毕业生.jpg)]
-- *2021.06*, **无锡太湖学院2021届优秀毕业生** [[Link](./images/Honors/无锡太湖学院优秀毕业生.jpg)]
-- *2020.12*, 无锡太湖学院 “三好学生标兵” [[Link](./images/Honors/2019-2020学年“校三好学生标兵”.jpg)]
-- *2020.10*, **江苏省海选我们身边的好青年—勤学上进青年**（无锡市仅 3位 青年入选） [[Link](https://mp.weixin.qq.com/s?__biz=MjM5NDgxMzcxMQ==&mid=2649990108&idx=1&sn=263ea035c552cd4a57a485afc5d7d7d2&chksm=be8501bc89f288aa15a7a406abbe281a497033c1fe7b4f5b3a7595f202935b57b13f3d813bf4&scene=27&poc_token=HJre82ej5LNgQv9KzxXijHNdJokU2hDEqoh4nGAH)]
-- *2020.06*, **江苏省 “优秀学生干部”** [[Link](./images/Honors/2019-2020年度江苏省优秀学生干部.jpg)]
-- *2020.05*, **第九届无锡太湖学院太湖之星 “科研之星”** [[Link](https://baijiahao.baidu.com/s?id=1668006417178699913&wfr=spider&for=pc)]
-- *2020.05*, 2019年度无锡太湖学院 “优秀共青团干部” [[Link](./images/Honors/2019年无锡太学院“优秀学生干部”.jpg)]
-- *2019.12*, 无锡太湖学院 “三好学生标兵” [[Link](./images/Honors/2018-2019学年“校三好学生标兵”.jpg)]
-- *2019.07*, **无锡市 “三好学生”** [[Link](./images/Honors/2019年无锡市三好学生.jpg)]
-- *2019.05*, 2018年度无锡太湖学院 “优秀共青团干部” [[Link](./images/Honors/2018年度无锡太湖学院“优秀共青团”.jpg)]
-- *2018.12*, 无锡太湖学院“三好学生” [[Link](./images/Honors/2017-2018学年“校三好学生”.jpg)]
+- *2024.05*, **Outstanding Graduate of Yangzhou University Class of 2024** [[Link](./images/Honors/扬州大学优秀毕业生.jpg)]
+- *2023.11*, "Three Good Students" at Yangzhou University [[Link](./images/Honors/2022-2023扬州大学三好学生.jpg)]
+- *2023.04*, Outstanding Volunteer for Yangzhou Jianzhen Half Marathon and Grand Canal Marathon Series (Yangzhou Station) [[Link](./images/Honors/扬马优秀志愿者.jpg)]
+- *2022.11*, "Three Good Students" at School of Information Engineering (School of Artificial Intelligence), Yangzhou University
+- *2022.06*, "Civilized Dormitory" at Yangzhou University 2022 [[Link](./images/Honors/扬州大学优秀毕业生.jpg)]
+- *2021.06*, **Outstanding Graduate of Wuxi Taihu University Class of 2021** [[Link](./images/Honors/无锡太湖学院优秀毕业生.jpg)]
+- *2020.12*, "Three Good Students Model" at Wuxi Taihu University [[Link](./images/Honors/2019-2020学年"校三好学生标兵".jpg)]
+- *2020.10*, **Jiangsu Province "Good Youth Around Us" - Diligent and Progressive Youth** (Only 3 youths from Wuxi City were selected) [[Link](https://mp.weixin.qq.com/s?__biz=MjM5NDgxMzcxMQ==&mid=2649990108&idx=1&sn=263ea035c552cd4a57a485afc5d7d7d2&chksm=be8501bc89f288aa15a7a406abbe281a497033c1fe7b4f5b3a7595f202935b57b13f3d813bf4&scene=27&poc_token=HJre82ej5LNgQv9KzxXijHNdJokU2hDEqoh4nGAH)]
+- *2020.06*, **Jiangsu Province "Outstanding Student Cadre"** [[Link](./images/Honors/2019-2020年度江苏省优秀学生干部.jpg)]
+- *2020.05*, **Ninth Wuxi Taihu University "Taihu Star" - "Research Star"** [[Link](https://baijiahao.baidu.com/s?id=1668006417178699913&wfr=spider&for=pc)]
+- *2020.05*, 2019 "Outstanding Communist Youth League Cadre" at Wuxi Taihu University [[Link](./images/Honors/2019年无锡太学院"优秀学生干部".jpg)]
+- *2019.12*, "Three Good Students Model" at Wuxi Taihu University [[Link](./images/Honors/2018-2019学年"校三好学生标兵".jpg)]
+- *2019.07*, **Wuxi City "Three Good Students"** [[Link](./images/Honors/2019年无锡市三好学生.jpg)]
+- *2019.05*, 2018 "Outstanding Communist Youth League Cadre" at Wuxi Taihu University [[Link](./images/Honors/2018年度无锡太湖学院"优秀共青团".jpg)]
+- *2018.12*, "Three Good Students" at Wuxi Taihu University [[Link](./images/Honors/2017-2018学年"校三好学生".jpg)]
 
 
 # 🥇 Awards
-- *2023.10*, **国家奖学金** [[Link](./images/Awards/2023年硕士研究生国家奖学金证书.jpg)]
-- *2023.10*, 扬州大学 研究生 “一等学业奖学金”（1/78） [[Link](./images/Awards/2022-2023研究生学业一等奖学金.png)]
-- *2023.04*, 扬州大学 “芯享科技企业奖学金” 
-- *2022.10*, 扬州大学 研究生“一等学业奖学金”（4/78） [[Link](./images/Awards/2021-2022研究生学业一等奖学金.jpg)]
-- *2022.10*, 扬州大学 优秀困难研究生助学金 
-- *2020.12*, 无锡太湖学院 “一等奖学金”（1/36） [[Link](./images/Awards/2019-2020学年校综合奖学金一等奖.jpg)]
-- *2020.11*, **国家励志奖学金** [[Link](./images/Awards/2019-2020学年国家励志奖学金.jpg)]
-- *2019.11*, **国家励志奖学金** [[Link](./images/Awards/2018-2019学年国家励志奖学金.jpg)]
-- *2019.10*, 无锡太湖学院 “一等奖学金”（1/36） [[Link](./images/Awards/2018-2019学年校综合奖学金一等奖.jpg)]
-- *2018.12*, 无锡太湖学院 “一等奖学金”（1/36） [[Link](./images/Awards/2017-2018学年校综合奖学金一等奖.jpg)]
+- *2023.10*, **National Scholarship** [[Link](./images/Awards/2023年硕士研究生国家奖学金证书.jpg)]
+- *2023.10*, First-class Academic Scholarship for Graduate Students at Yangzhou University (1/78) [[Link](./images/Awards/2022-2023研究生学业一等奖学金.png)]
+- *2023.04*, "Xinxiang Technology Enterprise Scholarship" at Yangzhou University
+- *2022.10*, First-class Academic Scholarship for Graduate Students at Yangzhou University (4/78) [[Link](./images/Awards/2021-2022研究生学业一等奖学金.jpg)]
+- *2022.10*, Outstanding Needy Graduate Student Grant at Yangzhou University
+- *2020.12*, "First-class Scholarship" at Wuxi Taihu University (1/36) [[Link](./images/Awards/2019-2020学年校综合奖学金一等奖.jpg)]
+- *2020.11*, **National Encouragement Scholarship** [[Link](./images/Awards/2019-2020学年国家励志奖学金.jpg)]
+- *2019.11*, **National Encouragement Scholarship** [[Link](./images/Awards/2018-2019学年国家励志奖学金.jpg)]
+- *2019.10*, "First-class Scholarship" at Wuxi Taihu University (1/36) [[Link](./images/Awards/2018-2019学年校综合奖学金一等奖.jpg)]
+- *2018.12*, "First-class Scholarship" at Wuxi Taihu University (1/36) [[Link](./images/Awards/2017-2018学年校综合奖学金一等奖.jpg)]
 
 
 # 🏆 Competitions
-- *2023.09*, 第十八届“挑战杯”全国大学生课外学术科技作品竞赛  **国家级三等奖** [[Link](./images/Competitions/第十八届“挑战杯”竞赛“揭榜挂帅”专项赛全国三等奖.jpg)]
-- *2019.09*, 全国大学生电子设计竞赛江苏赛区 **省级二等奖** [[Link](./images/Competitions/2019年全国大学生电子设计竞赛江苏赛区二等奖.jpg)]
-- *2019.08*, 第十四届全国大学生“恩智浦”杯智能汽车竞赛 **省级二等奖** [[Link](./images/Competitions/第十四届全国大学生“恩智浦”杯智能汽车竞赛二等奖.jpg)]
-- *2019.04*, 中国工程机器人大赛暨国际公开赛 **国家级一等奖** [[Link](./images/Competitions/2019年中国工程机器人大赛暨国际公开赛一等奖.jpg)]
-- *2019.10*, 第十届江苏省大学生机器人大赛 **省级三等奖** [[Link](./images/Competitions/第十届江苏省大学生机器人大赛三等奖.jpg)]
-- *2019.03*, 第十届蓝桥杯江苏赛区C/C++程序设计大学B组 **省级三等奖** [[Link](./images/Competitions/第十届蓝桥杯江苏赛区CC++大学B组三等奖.jpg)]
-- *2018.11*, 第九届江苏省大学生机器人大赛 **省级三等奖** [[Link](./images/Competitions/第九届江苏省大学生机器人大赛三等奖.jpg)]
+- *2023.09*, 18th "Challenge Cup" National College Students Extracurricular Academic Science and Technology Works Competition **National Third Prize** [[Link](./images/Competitions/第十八届"挑战杯"竞赛"揭榜挂帅"专项赛全国三等奖.jpg)]
+- *2019.09*, National College Students Electronic Design Competition Jiangsu Division **Provincial Second Prize** [[Link](./images/Competitions/2019年全国大学生电子设计竞赛江苏赛区二等奖.jpg)]
+- *2019.08*, 14th National College Students "NXP Cup" Intelligent Car Competition **Provincial Second Prize** [[Link](./images/Competitions/第十四届全国大学生"恩智浦"杯智能汽车竞赛二等奖.jpg)]
+- *2019.04*, China Engineering Robot Competition and International Open Competition **National First Prize** [[Link](./images/Competitions/2019年中国工程机器人大赛暨国际公开赛一等奖.jpg)]
+- *2019.10*, 10th Jiangsu Province College Students Robot Competition **Provincial Third Prize** [[Link](./images/Competitions/第十届江苏省大学生机器人大赛三等奖.jpg)]
+- *2019.03*, 10th Blue Bridge Cup Jiangsu Division C/C++ Programming University Group B **Provincial Third Prize** [[Link](./images/Competitions/第十届蓝桥杯江苏赛区CC++大学B组三等奖.jpg)]
+- *2018.11*, 9th Jiangsu Province College Students Robot Competition **Provincial Third Prize** [[Link](./images/Competitions/第九届江苏省大学生机器人大赛三等奖.jpg)]
